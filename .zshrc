@@ -135,3 +135,6 @@ export AWS_PROFILE=zus-dev
 alias vim="nvim"
 
 alias dotconfig='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
+# Enable vim keybindings in zsh
+bindkey -v
